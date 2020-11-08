@@ -35,7 +35,6 @@ public class Main {
         System.out.println("Potencia: "+carro.getMotor().getPontency());
         System.out.println("Torque: "+carro.getMotor().getTorch());
         System.out.println("Velocidade : "+carro.getMotor().getMaxSpeed());
-        System.out.println("Turbo: "+carro.getMotor().getTurbo());
 
         System.out.println("cor do banco "+carro.getAccent().getColor());
         System.out.println("Tecido "+carro.getAccent().getTecido());
